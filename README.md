@@ -68,6 +68,7 @@ def start_realtime_plot():
     tune_thread.start()
 
 if __name__ == "__main__":
+#might varry
     chunk_size = 1024
     sample_rate = 44100
 
